@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Sam, a computer science student !
+## Hi there 👋 I'm Sam
+I wish I had a proper ReadMe
 
 <!--
 **SamNzo/SamNzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
