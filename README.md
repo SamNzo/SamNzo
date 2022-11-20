@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Sam
-I wish I had a proper ReadMe
+doot diddly donger cuckerino hahaa
 
 <!--
 **SamNzo/SamNzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
