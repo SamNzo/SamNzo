@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Sam
-doot diddly donger cuckerino hahaa
+Young graduate interested in reverse engineering, cryptography, binary exploitation and cybersecurity in general !
+
+🌱 Currently learning malware analysis
 
 <!--
 **SamNzo/SamNzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +9,7 @@ doot diddly donger cuckerino hahaa
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning malware analysis
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
