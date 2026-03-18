@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Sam
-Young graduate interested in reverse engineering, cryptography, binary exploitation and cybersecurity in general !
+Young graduate interested in reverse engineering, binary exploitation and cryptography
 
-🌱 Currently learning malware analysis
+🌱 Currently learning android malware analysis
 
 <!--
 **SamNzo/SamNzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
